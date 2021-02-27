@@ -1,0 +1,13 @@
+language: cpp
+os: osx
+compiler: clang
+
+install:
+  - pip3 install numpy matplotlib
+
+script:
+  - mkdir build
+  - cd build
+  - cmake -DCMAKE_BUIILD_TYPE=Release ..
+  - make
+  - ctest
