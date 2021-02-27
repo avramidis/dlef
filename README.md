@@ -1,15 +1,16 @@
-# cpp-template-project
+# dlef
 
 ![stability-wip](https://img.shields.io/badge/stability-work_in_progress-lightgrey.svg)
-[![GitHub](https://img.shields.io/github/license/avramidis/cxxplot)](https://github.com/avramidis/cpp-template-project/blob/master/LICENSE)
+[![GitHub](https://img.shields.io/github/license/avramidis/dlef)](https://github.com/avramidis/dlef/blob/master/LICENSE)
 
-branch | Windows | Ubuntu | macOS
-| :--- | ---: | ---: | ---: |
-| master | [![Build status](https://ci.appveyor.com/api/projects/status/1b5kmevuiem6qh78/branch/master?svg=true)](https://ci.appveyor.com/project/avramidis/cpp-template-project/branch/master) | ![Ubuntu](https://github.com/avramidis/cpp-template-project/workflows/CMake/badge.svg) | [![Build Status](https://travis-ci.org/avramidis/cpp-template-project.svg?branch=master)](https://travis-ci.org/avramidis/cpp-template-project/branches)
+### Build status
+
+Branch | Status
+| :--- |  ---: |
+| master | ![Ubuntu](https://github.com/avramidis/dlef/workflows/CMake/badge.svg)
 
 ### Introduction
-This is a C++ template project. Change the project's name and the the links of the badges above.
-Delete any files and feature that you do not need.
+Collection of custom extra specialised data structures in C++.
 
 #### More information
 * See [doc/INSTALL.md](doc/INSTALL.md) for installation instructions.
